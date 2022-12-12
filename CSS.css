@@ -4,7 +4,7 @@
   }
 }
 
-//Custom fonts installing
+/*Custom fonts installing*/
 @font-face { 
   font-family: 'santorini';
   src: url('https://static1.squarespace.com/static/59cb26e0a8b2b0ac8ab654bc/t/631bbde31688641c58d10e19/1662762468953/Santorini.ttf') format('truetype');
@@ -12,7 +12,7 @@
 
 
 
-//Quote block customization
+/*Quote block customization*/
 .image-block-card-dynamic-font-sizing .sqs-block-image .design-layout-card .image-subtitle p	{
   padding-right: 33px;
   font-size: 16px!important;
@@ -32,7 +32,7 @@
 
 
 
-//Review block customization
+/*Review block customization*/
 h1{
   font-family: 'santorini'!important;
   color: #996456;
@@ -59,7 +59,7 @@ h1{
 
 
 
-//Portfolio block customization
+/*Portfolio block customization*/
 #block-yui_3_17_2_1_1662863375008_2710{
   border: 2px solid #D6CCC2;
   color: #996456;
@@ -84,7 +84,7 @@ h1{
 
 
 
-//CTA block customization
+/*CTA block customization*/
 .sqs-gallery-block-slideshow .meta .meta-title {  
   margin-left: -250px;
   margin-top: 80px;
@@ -109,7 +109,7 @@ h1{
 
 
 
-//Footer customization
+/*Footer customization*/
 #block-yui_3_17_2_1_1662826373056_4962 {
   margin-top: -170px;
 }
@@ -137,7 +137,7 @@ h1{
 
 
 
-//Portfolios page customization
+/*Portfolios page customization*/
 #corporate-events-headshots-portfolio, #midone, #sports-photography-portfolio, #weddings-portfolio {
   background: linear-gradient(0deg,#DEC8BE 80%,#FFFFFF 0%);
   padding: 0;
@@ -149,7 +149,7 @@ h1{
 
 
 
-//Pricing page customization
+/*Pricing page customization*/
 #block-yui_3_17_2_1_1662996669849_48982{
   margin-left: -3px;
 }
